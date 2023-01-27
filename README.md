@@ -34,7 +34,7 @@ data/ # stores data preparation scripts for both systems
 ```
 
 ## Usage
-1. Prepare data using `data/Convert.ipynb`
+1. Prepare data using `data/Convert.ipynb`. This notebook converts data files in `CONLLUA` format to `jsonlines` format.
 2. Run models under `ar/` and/or `dd/`
 
 ## Questions?
