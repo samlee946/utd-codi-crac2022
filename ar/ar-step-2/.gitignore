@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.pyc
+tmp.py
+conll-2012
+ontonotes
+datadir
+reference-coreference-scorers
+__pycache__

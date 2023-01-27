@@ -1,0 +1,16 @@
+NULL
+abstract
+animate
+concrete
+disease
+medicine
+numerical
+organization
+person
+plan
+space
+substance
+time
+undersp-onto
+unknown
+unmarked
