@@ -37,6 +37,16 @@ data/ # stores data preparation scripts for both systems
 1. Prepare data using `data/Convert.ipynb`. This notebook converts data files in `CONLLUA` format to `jsonlines` format.
 2. Run models under `ar/` and/or `dd/`
 
+## Trained checkpoints
+Here we upload only one saved checkpoint for each model. Since we used different hyperparameters for different test sets, you might not be able to fully reproduce our results on the CODI-CRAC 2022 test sets.  
+
+[AR-step-1](https://drive.google.com/file/d/1eT4QItO58AGdh8ckM4NBIX2k4Xe6BzX2/view?usp=sharing)  
+[AR-step-2](https://drive.google.com/file/d/13uLOy1_UPwC24KqRr6hGgzuNAM-SShrr/view?usp=sharing)  
+[AR-step-3](https://drive.google.com/file/d/12W0yPCddtfKN2Cdk02y322Ln1VmZP-jh/view?usp=sharing)  
+[DD-predicted phase](https://drive.google.com/file/d/1qgcjbPllwxNR3CGvlp3Fwk8U2_GjyIOB/view?usp=sharing)  
+[DD-gold mention phase](https://drive.google.com/file/d/1xngh8FbXE15ZBoOnNgDxrtU2UEIRHHvV/view?usp=sharing)  
+[DD-gold anaphor phase](https://drive.google.com/file/d/13tMrLD6qi8Z9D7nWZaa3ObpJlHMgXc7N/view?usp=sharing)
+
 ## Questions?
 
 If you have any questions about the code, you can create a GitHub issue or email me at [sxl180006@hlt.utdallas.edu](mailto:sxl180006@hlt.utdallas.edu).
