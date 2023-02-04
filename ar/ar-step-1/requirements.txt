@@ -1,2 +1,9 @@
 numpy
 scipy>=0.17.0
+scikit-learn==0.23.2
+pytorch==1.11.0
+spacy==3.1.0
+transformers==4.25.1
+numpy==1.22.4
+tqdm=4.50.2
+scipy==1.8.1
